@@ -1,0 +1,1027 @@
+18:52:20.888 INFO  launcher.Launcher : start() called
+18:52:20.911 INFO  controller.ControllerSingleton : Creating connection...
+19:01:14.199 INFO  launcher.Launcher : start() called
+19:01:14.222 INFO  controller.ControllerSingleton : Creating connection...
+22:25:22.559 INFO  launcher.Launcher : start() called
+22:25:22.623 INFO  controller.ControllerSingleton : Creating connection...
+22:25:40.034 INFO  launcher.Launcher : start() called
+22:25:40.057 INFO  controller.ControllerSingleton : Creating connection...
+23:25:52.814 INFO  launcher.Launcher : start() called
+23:25:52.838 INFO  controller.ControllerSingleton : Creating connection...
+23:26:32.943 INFO  launcher.Launcher : start() called
+23:26:32.970 INFO  controller.ControllerSingleton : Creating connection...
+23:41:08.725 INFO  launcher.Launcher : start() called
+23:41:08.750 INFO  controller.ControllerSingleton : Creating connection...
+23:42:35.011 INFO  launcher.Launcher : start() called
+23:42:35.047 INFO  controller.ControllerSingleton : Creating connection...
+23:43:58.789 INFO  launcher.Launcher : start() called
+23:43:58.814 INFO  controller.ControllerSingleton : Creating connection...
+23:44:59.540 INFO  launcher.Launcher : start() called
+23:44:59.564 INFO  controller.ControllerSingleton : Creating connection...
+23:45:38.651 INFO  launcher.Launcher : start() called
+23:45:38.674 INFO  controller.ControllerSingleton : Creating connection...
+23:46:24.310 INFO  launcher.Launcher : start() called
+23:46:24.334 INFO  controller.ControllerSingleton : Creating connection...
+23:51:17.360 INFO  launcher.Launcher : start() called
+23:51:17.383 INFO  controller.ControllerSingleton : Creating connection...
+23:52:27.098 INFO  launcher.Launcher : start() called
+23:52:27.130 INFO  controller.ControllerSingleton : Creating connection...
+23:52:44.703 INFO  launcher.Launcher : start() called
+23:52:44.726 INFO  controller.ControllerSingleton : Creating connection...
+23:54:34.557 INFO  launcher.Launcher : start() called
+23:54:34.580 INFO  controller.ControllerSingleton : Creating connection...
+23:55:32.837 INFO  launcher.Launcher : start() called
+23:55:32.860 INFO  controller.ControllerSingleton : Creating connection...
+23:55:44.012 INFO  db.AuthorTableGateway : Closing connection...
+23:56:47.802 INFO  launcher.Launcher : start() called
+23:56:47.825 INFO  controller.ControllerSingleton : Creating connection...
+23:56:51.726 ERROR controller.ControllerSingleton : IO exception on view changer
+23:59:34.692 INFO  launcher.Launcher : start() called
+23:59:34.715 INFO  controller.ControllerSingleton : Creating connection...
+23:59:43.872 ERROR controller.ControllerSingleton : IO exception on view changer
+00:02:15.558 INFO  launcher.Launcher : start() called
+00:02:15.580 INFO  controller.ControllerSingleton : Creating connection...
+00:02:21.157 ERROR controller.ControllerSingleton : IO exception on view changer
+00:05:25.359 INFO  launcher.Launcher : start() called
+00:05:25.383 INFO  controller.ControllerSingleton : Creating connection...
+00:10:41.144 INFO  launcher.Launcher : start() called
+00:10:41.167 INFO  controller.ControllerSingleton : Creating connection...
+00:10:44.954 ERROR controller.ControllerSingleton : IO exception on view changer
+00:11:24.998 INFO  launcher.Launcher : start() called
+00:11:25.030 INFO  controller.ControllerSingleton : Creating connection...
+00:11:28.512 ERROR controller.ControllerSingleton : IO exception on view changer
+00:13:30.264 INFO  launcher.Launcher : start() called
+00:13:30.287 INFO  controller.ControllerSingleton : Creating connection...
+00:13:33.814 ERROR controller.ControllerSingleton : IO exception on view changer
+00:14:11.805 INFO  launcher.Launcher : start() called
+00:14:11.832 INFO  controller.ControllerSingleton : Creating connection...
+00:14:16.480 ERROR controller.ControllerSingleton : IO exception on view changer
+00:15:28.382 INFO  launcher.Launcher : start() called
+00:15:28.406 INFO  controller.ControllerSingleton : Creating connection...
+00:16:29.628 INFO  launcher.Launcher : start() called
+00:16:29.651 INFO  controller.ControllerSingleton : Creating connection...
+00:18:22.466 INFO  launcher.Launcher : start() called
+00:18:22.489 INFO  controller.ControllerSingleton : Creating connection...
+00:18:33.016 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+00:18:35.543 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+00:18:40.430 INFO  db.AuthorTableGateway : Closing connection...
+00:19:22.733 INFO  launcher.Launcher : start() called
+00:19:22.755 INFO  controller.ControllerSingleton : Creating connection...
+00:19:28.760 INFO  controller.AuthorListViewController : Joanne Rowling double clicked
+00:19:40.998 INFO  launcher.Launcher : start() called
+00:19:41.021 INFO  controller.ControllerSingleton : Creating connection...
+00:41:23.998 INFO  launcher.Launcher : start() called
+00:41:24.020 INFO  controller.ControllerSingleton : Creating connection...
+00:41:29.909 INFO  controller.AuthorListViewController : Joanne Rowling double clicked
+00:49:50.905 INFO  launcher.Launcher : start() called
+00:49:50.927 INFO  controller.ControllerSingleton : Creating connection...
+00:49:58.423 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+00:50:03.900 INFO  db.AuthorTableGateway : Closing connection...
+00:50:21.492 INFO  launcher.Launcher : start() called
+00:50:21.514 INFO  controller.ControllerSingleton : Creating connection...
+00:50:27.057 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+00:51:49.081 INFO  launcher.Launcher : start() called
+00:51:49.103 INFO  controller.ControllerSingleton : Creating connection...
+00:51:55.430 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+00:51:55.517 ERROR controller.ControllerSingleton : IO exception on view changer
+00:53:57.641 INFO  launcher.Launcher : start() called
+00:53:57.662 INFO  controller.ControllerSingleton : Creating connection...
+00:54:03.535 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+00:54:48.189 INFO  db.AuthorTableGateway : Closing connection...
+00:58:58.650 INFO  launcher.Launcher : start() called
+00:58:58.674 INFO  controller.ControllerSingleton : Creating connection...
+00:59:03.821 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+01:14:48.621 INFO  launcher.Launcher : start() called
+01:14:48.644 INFO  controller.ControllerSingleton : Creating connection...
+01:23:22.093 INFO  launcher.Launcher : start() called
+01:23:22.116 INFO  controller.ControllerSingleton : Creating connection...
+01:23:26.175 ERROR controller.ControllerSingleton : IO exception on view changer
+01:25:32.380 INFO  launcher.Launcher : start() called
+01:25:32.405 INFO  controller.ControllerSingleton : Creating connection...
+01:27:33.112 INFO  launcher.Launcher : start() called
+01:27:33.134 INFO  controller.ControllerSingleton : Creating connection...
+01:27:38.543 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+01:27:38.603 ERROR controller.ControllerSingleton : IO exception on view changer
+01:28:15.864 INFO  launcher.Launcher : start() called
+01:28:15.888 INFO  controller.ControllerSingleton : Creating connection...
+01:28:21.076 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+01:28:21.138 ERROR controller.ControllerSingleton : IO exception on view changer
+01:29:03.005 INFO  launcher.Launcher : start() called
+01:29:03.028 INFO  controller.ControllerSingleton : Creating connection...
+01:29:07.889 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+01:29:57.674 INFO  db.AuthorTableGateway : Closing connection...
+01:30:05.334 INFO  launcher.Launcher : start() called
+01:30:05.357 INFO  controller.ControllerSingleton : Creating connection...
+01:30:10.234 INFO  controller.AuthorListViewController : Dfgsdf Wells double clicked
+01:30:20.688 INFO  controller.AuthorDetailController : SAVE button clicked
+01:30:20.779 INFO  db.AuthorTableGateway : H.G. Wells SAVED
+01:44:22.293 INFO  launcher.Launcher : start() called
+01:44:22.316 INFO  controller.ControllerSingleton : Creating connection...
+01:44:30.178 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+01:45:39.716 INFO  launcher.Launcher : start() called
+01:45:39.739 INFO  controller.ControllerSingleton : Creating connection...
+01:45:52.614 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+01:51:56.649 INFO  launcher.Launcher : start() called
+01:51:56.671 INFO  controller.ControllerSingleton : Creating connection...
+01:52:12.159 INFO  db.AuthorTableGateway : Closing connection...
+10:19:49.929 INFO  launcher.Launcher : start() called
+10:19:49.959 INFO  controller.ControllerSingleton : Creating connection...
+10:20:12.545 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+10:21:06.514 INFO  db.AuthorTableGateway : Closing connection...
+10:38:18.469 INFO  launcher.Launcher : start() called
+10:38:18.496 INFO  controller.ControllerSingleton : Creating connection...
+10:38:24.985 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+10:49:29.904 INFO  launcher.Launcher : start() called
+10:49:29.930 INFO  controller.ControllerSingleton : Creating connection...
+10:49:36.235 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+10:50:16.615 INFO  launcher.Launcher : start() called
+10:50:16.643 INFO  controller.ControllerSingleton : Creating connection...
+10:50:22.382 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+12:00:20.357 INFO  launcher.Launcher : start() called
+12:00:20.402 INFO  controller.ControllerSingleton : Creating connection...
+12:00:34.452 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+12:11:21.905 INFO  launcher.Launcher : start() called
+12:11:21.933 INFO  controller.ControllerSingleton : Creating connection...
+12:16:02.036 INFO  launcher.Launcher : start() called
+12:16:02.063 INFO  controller.ControllerSingleton : Creating connection...
+12:19:23.883 INFO  launcher.Launcher : start() called
+12:19:23.917 INFO  controller.ControllerSingleton : Creating connection...
+12:19:56.021 INFO  launcher.Launcher : start() called
+12:19:56.050 INFO  controller.ControllerSingleton : Creating connection...
+12:21:45.108 INFO  launcher.Launcher : start() called
+12:21:45.137 INFO  controller.ControllerSingleton : Creating connection...
+12:21:52.971 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+12:44:24.436 INFO  launcher.Launcher : start() called
+12:44:24.504 INFO  controller.ControllerSingleton : Creating connection...
+12:44:38.137 INFO  launcher.Launcher : start() called
+12:44:38.197 INFO  controller.ControllerSingleton : Creating connection...
+13:09:48.238 INFO  launcher.Launcher : start() called
+13:09:48.275 INFO  controller.ControllerSingleton : Creating connection...
+13:10:15.645 INFO  launcher.Launcher : start() called
+13:10:15.682 INFO  controller.ControllerSingleton : Creating connection...
+13:10:21.070 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:11:08.976 INFO  controller.BookDetailController : SAVE button clicked
+13:11:09.017 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:11:19.257 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:11:32.717 INFO  db.AuthorTableGateway : Closing connection...
+13:12:51.853 INFO  launcher.Launcher : start() called
+13:12:51.880 INFO  controller.ControllerSingleton : Creating connection...
+13:12:57.856 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:13:03.394 INFO  controller.BookDetailController : SAVE button clicked
+13:13:03.421 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:13:10.085 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:13:59.644 INFO  launcher.Launcher : start() called
+13:13:59.673 INFO  controller.ControllerSingleton : Creating connection...
+13:14:05.561 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:14:11.662 INFO  controller.BookDetailController : SAVE button clicked
+13:14:11.692 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:16:22.962 INFO  launcher.Launcher : start() called
+13:16:22.999 INFO  controller.ControllerSingleton : Creating connection...
+13:16:30.470 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:16:34.525 INFO  controller.BookDetailController : SAVE button clicked
+13:16:34.566 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:16:47.094 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:17:55.317 INFO  launcher.Launcher : start() called
+13:17:55.344 INFO  controller.ControllerSingleton : Creating connection...
+13:18:00.842 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:18:04.749 INFO  controller.BookDetailController : SAVE button clicked
+13:18:04.806 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:18:46.037 INFO  launcher.Launcher : start() called
+13:18:46.066 INFO  controller.ControllerSingleton : Creating connection...
+13:18:50.558 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:18:54.242 INFO  controller.BookDetailController : SAVE button clicked
+13:18:54.275 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:21:02.633 INFO  launcher.Launcher : start() called
+13:21:02.660 INFO  controller.ControllerSingleton : Creating connection...
+13:21:08.357 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:21:15.423 INFO  controller.BookDetailController : SAVE button clicked
+13:21:15.463 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:21:23.185 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:22:26.202 INFO  launcher.Launcher : start() called
+13:22:26.231 INFO  controller.ControllerSingleton : Creating connection...
+13:22:32.120 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:22:35.607 INFO  controller.BookDetailController : SAVE button clicked
+13:22:35.639 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:26:24.041 INFO  launcher.Launcher : start() called
+13:26:24.071 INFO  controller.ControllerSingleton : Creating connection...
+13:26:29.705 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:26:33.783 INFO  controller.BookDetailController : SAVE button clicked
+13:26:33.828 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:27:48.930 INFO  launcher.Launcher : start() called
+13:27:48.965 INFO  controller.ControllerSingleton : Creating connection...
+13:27:53.700 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:28:15.032 INFO  launcher.Launcher : start() called
+13:28:15.058 INFO  controller.ControllerSingleton : Creating connection...
+13:28:23.737 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:28:30.089 INFO  controller.BookDetailController : SAVE button clicked
+13:28:30.120 INFO  db.BookTableGateway : Journey to the Centre of the Earth SAVED
+13:28:37.735 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+13:32:01.994 INFO  launcher.Launcher : start() called
+13:32:02.024 INFO  controller.ControllerSingleton : Creating connection...
+13:55:39.379 INFO  launcher.Launcher : start() called
+13:55:39.412 INFO  controller.ControllerSingleton : Creating connection...
+13:56:58.473 INFO  launcher.Launcher : start() called
+13:56:58.509 INFO  controller.ControllerSingleton : Creating connection...
+13:58:20.641 INFO  launcher.Launcher : start() called
+13:58:20.670 INFO  controller.ControllerSingleton : Creating connection...
+13:58:54.850 INFO  launcher.Launcher : start() called
+13:58:54.881 INFO  controller.ControllerSingleton : Creating connection...
+14:02:55.099 INFO  launcher.Launcher : start() called
+14:02:55.138 INFO  controller.ControllerSingleton : Creating connection...
+14:04:08.237 INFO  launcher.Launcher : start() called
+14:04:08.264 INFO  controller.ControllerSingleton : Creating connection...
+14:06:07.762 INFO  launcher.Launcher : start() called
+14:06:07.791 INFO  controller.ControllerSingleton : Creating connection...
+14:10:46.996 INFO  launcher.Launcher : start() called
+14:10:47.025 INFO  controller.ControllerSingleton : Creating connection...
+14:12:09.453 INFO  launcher.Launcher : start() called
+14:12:09.481 INFO  controller.ControllerSingleton : Creating connection...
+14:12:43.928 INFO  launcher.Launcher : start() called
+14:12:43.959 INFO  controller.ControllerSingleton : Creating connection...
+14:12:54.917 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+14:14:20.742 INFO  launcher.Launcher : start() called
+14:14:20.767 INFO  controller.ControllerSingleton : Creating connection...
+14:14:28.342 INFO  db.BookTableGateway : StringProperty [value: Will this work?] DELETED
+14:16:38.888 INFO  launcher.Launcher : start() called
+14:16:38.917 INFO  controller.ControllerSingleton : Creating connection...
+14:18:16.499 INFO  controller.BookDetailController : SAVE button clicked
+14:18:16.541 INFO  db.BookTableGateway : Harry Potter and the Prizoner of Azkaban INSERTED
+14:18:23.608 INFO  controller.BookDetailController : SAVE button clicked
+14:18:23.644 INFO  db.BookTableGateway : Harry Potter and the Prizoner of Azkaban SAVED
+14:18:45.595 INFO  db.AuthorTableGateway : Closing connection...
+14:19:14.224 INFO  launcher.Launcher : start() called
+14:19:14.249 INFO  controller.ControllerSingleton : Creating connection...
+14:20:23.102 INFO  launcher.Launcher : start() called
+14:20:23.135 INFO  controller.ControllerSingleton : Creating connection...
+14:20:55.472 INFO  db.AuthorTableGateway : Closing connection...
+14:45:46.039 INFO  launcher.Launcher : start() called
+14:45:46.077 INFO  controller.ControllerSingleton : Creating connection...
+15:16:03.709 INFO  launcher.Launcher : start() called
+15:16:03.745 INFO  controller.ControllerSingleton : Creating connection...
+15:16:11.754 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+15:16:16.744 INFO  controller.BookDetailController : SAVE button clicked
+15:16:16.778 INFO  db.BookTableGateway : Harry Potter and the Chamber of Secretsss SAVED
+15:16:23.446 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secretsss double clicked
+15:16:27.356 INFO  controller.BookDetailController : SAVE button clicked
+15:16:27.396 INFO  db.BookTableGateway : Harry Potter and the Chamber of Secrets SAVED
+15:21:56.024 INFO  launcher.Launcher : start() called
+15:21:56.052 INFO  controller.ControllerSingleton : Creating connection...
+15:22:02.703 INFO  controller.AuthorListViewController : H.G. Wells double clicked
+15:22:06.058 INFO  controller.AuthorDetailController : SAVE button clicked
+15:22:06.096 INFO  db.AuthorTableGateway : H.G. Wells SAVED
+15:24:59.806 INFO  launcher.Launcher : start() called
+15:24:59.836 INFO  controller.ControllerSingleton : Creating connection...
+15:25:05.792 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+15:36:17.135 INFO  launcher.Launcher : start() called
+15:36:17.173 INFO  controller.ControllerSingleton : Creating connection...
+15:36:23.242 INFO  controller.AuthorListViewController : H.G. Wells double clicked
+15:36:28.131 INFO  controller.AuthorDetailController : SAVE button clicked
+15:36:28.158 INFO  db.AuthorTableGateway : H.G.hhh Wells SAVED
+15:36:35.607 INFO  controller.AuthorListViewController : H.G.hhh Wells double clicked
+15:36:40.417 INFO  controller.AuthorDetailController : SAVE button clicked
+15:36:40.475 INFO  db.AuthorTableGateway : H.G. Wells SAVED
+15:36:55.622 INFO  controller.AuthorDetailController : SAVE button clicked
+15:36:55.658 INFO  db.AuthorTableGateway : Blah Blah INSERTED
+15:36:58.949 INFO  controller.AuthorDetailController : SAVE button clicked
+15:36:58.978 INFO  db.AuthorTableGateway : Blah Blah SAVED
+15:37:06.597 INFO  db.AuthorTableGateway : Blah Blah DELETED
+15:37:17.935 INFO  controller.BookListViewController : Harry Potter and the Philosopher's Stone double clicked
+15:37:23.484 INFO  controller.BookDetailController : SAVE button clicked
+15:37:23.515 INFO  db.BookTableGateway : Harry Potter and the Philosopher's Stone SAVED
+15:37:30.653 INFO  controller.BookDetailController : SAVE button clicked
+15:37:30.689 INFO  db.BookTableGateway : Harry Potter and the Philosopher's Stoney SAVED
+15:37:35.424 INFO  controller.BookListViewController : Harry Potter and the Philosopher's Stoney double clicked
+15:37:40.593 INFO  controller.BookDetailController : SAVE button clicked
+15:37:40.627 INFO  db.BookTableGateway : Harry Potter and the Philosopher's Stone SAVED
+15:37:55.725 INFO  controller.BookDetailController : SAVE button clicked
+15:37:55.755 INFO  db.BookTableGateway : Mystery INSERTED
+15:37:57.702 INFO  controller.BookDetailController : SAVE button clicked
+15:37:57.729 INFO  db.BookTableGateway : Mystery SAVED
+15:38:03.848 INFO  db.BookTableGateway : StringProperty [value: Mystery] DELETED
+15:38:13.170 INFO  controller.AuthorListViewController : H.G. Wells double clicked
+15:38:16.726 INFO  controller.AuthorDetailController : SAVE button clicked
+15:38:16.726 ERROR controller.AuthorDetailController : Invalid Firstname:	""
+15:38:24.307 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+15:38:30.469 INFO  controller.BookDetailController : SAVE button clicked
+15:38:30.470 ERROR controller.BookDetailController : Invalid Title:	""
+15:38:43.555 INFO  db.AuthorTableGateway : Closing connection...
+15:43:41.089 INFO  launcher.Launcher : start() called
+15:43:41.120 INFO  controller.ControllerSingleton : Creating connection...
+15:43:48.339 INFO  controller.AuthorListViewController : H.G. Wells double clicked
+15:43:57.640 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+15:44:02.990 INFO  db.AuthorTableGateway : Closing connection...
+16:18:03.276 INFO  launcher.Launcher : start() called
+16:18:03.313 INFO  controller.ControllerSingleton : Creating connection...
+17:54:30.243 INFO  launcher.Launcher : start() called
+17:54:30.271 INFO  controller.ControllerSingleton : Creating connection...
+17:54:55.919 INFO  db.AuthorTableGateway : Closing connection...
+16:02:18.989 INFO  launcher.Launcher : start() called
+16:02:19.013 INFO  controller.ControllerSingleton : Creating connection...
+16:02:40.891 FATAL controller.ControllerSingleton : Cannot connect to db
+16:36:10.729 INFO  launcher.Launcher : start() called
+16:36:10.753 INFO  controller.ControllerSingleton : Creating connection...
+16:36:31.965 FATAL controller.ControllerSingleton : Cannot connect to db
+17:04:41.170 INFO  launcher.Launcher : start() called
+17:04:41.196 INFO  controller.ControllerSingleton : Creating connection...
+17:05:02.467 FATAL controller.ControllerSingleton : Cannot connect to db
+18:45:08.482 INFO  launcher.Launcher : start() called
+18:45:08.506 INFO  controller.ControllerSingleton : Creating connection...
+18:45:29.762 FATAL controller.ControllerSingleton : Cannot connect to db
+19:14:38.838 INFO  launcher.Launcher : start() called
+19:14:38.879 INFO  controller.ControllerSingleton : Creating connection...
+19:15:00.067 FATAL controller.ControllerSingleton : Cannot connect to db
+19:33:42.309 INFO  launcher.Launcher : start() called
+19:33:42.332 INFO  controller.ControllerSingleton : Creating connection...
+19:34:03.506 FATAL controller.ControllerSingleton : Cannot connect to db
+19:54:03.062 INFO  launcher.Launcher : start() called
+19:54:03.087 INFO  controller.ControllerSingleton : Creating connection...
+19:54:24.373 FATAL controller.ControllerSingleton : Cannot connect to db
+21:17:08.544 INFO  launcher.Launcher : start() called
+21:17:08.568 INFO  controller.ControllerSingleton : Creating connection...
+21:17:29.834 FATAL controller.ControllerSingleton : Cannot connect to db
+21:34:56.316 INFO  launcher.Launcher : start() called
+21:34:56.341 INFO  controller.ControllerSingleton : Creating connection...
+21:35:17.520 FATAL controller.ControllerSingleton : Cannot connect to db
+21:42:00.482 INFO  launcher.Launcher : start() called
+21:42:00.508 INFO  controller.ControllerSingleton : Creating connection...
+21:42:21.681 FATAL controller.ControllerSingleton : Cannot connect to db
+22:53:52.362 INFO  launcher.Launcher : start() called
+22:53:52.409 INFO  controller.ControllerSingleton : Creating connection...
+22:54:13.663 FATAL controller.ControllerSingleton : Cannot connect to db
+23:22:22.910 INFO  launcher.Launcher : start() called
+23:22:22.957 INFO  controller.ControllerSingleton : Creating connection...
+23:22:47.510 INFO  controller.BookDetailController : audit button clicked
+23:22:57.030 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+23:22:58.464 INFO  controller.BookDetailController : audit button clicked
+23:23:14.159 INFO  db.AuthorTableGateway : Closing connection...
+23:30:02.072 INFO  launcher.Launcher : start() called
+23:30:02.101 INFO  controller.ControllerSingleton : Creating connection...
+23:30:11.238 INFO  controller.AuthorListViewController : Joanne Rowling double clicked
+23:30:20.670 INFO  controller.BookListViewController : Harry Potter and the Chamber of Secrets double clicked
+23:30:28.808 INFO  controller.BookListViewController : Harry Potter and the Philosopher's Stone double clicked
+23:30:34.248 INFO  controller.BookListViewController : Harry Potter and the Prizoner of Azkaban double clicked
+23:30:38.331 INFO  controller.BookListViewController : Journey to the Centre of the Earth double clicked
+23:30:42.618 INFO  controller.BookListViewController : Twenty Thousand Leagues Under the Sea double clicked
+23:30:48.050 INFO  controller.AuthorListViewController : H.G. Wells double clicked
+23:30:52.550 INFO  controller.AuthorListViewController : Joanne Rowling double clicked
+23:30:55.794 INFO  controller.AuthorListViewController : Joey Wilsongabba double clicked
+23:31:06.962 INFO  controller.AuthorListViewController : Jules Verne double clicked
+23:31:11.408 INFO  controller.AuthorListViewController : Ray Bradburry double clicked
+00:24:53.292 INFO  launcher.Launcher : start() called
+00:24:53.317 INFO  controller.ControllerSingleton : Creating connection...
+00:25:36.765 INFO  controller.BookDetailController : SAVE button clicked
+00:25:36.877 INFO  db.BookTableGateway : The Mist INSERTED
+00:25:41.705 INFO  controller.BookListViewController : The Mist double clicked
+00:25:42.807 INFO  controller.BookDetailController : audit button clicked
+00:25:47.732 INFO  db.AuthorTableGateway : Closing connection...
+00:26:32.410 INFO  launcher.Launcher : start() called
+00:26:32.433 INFO  controller.ControllerSingleton : Creating connection...
+00:26:39.567 INFO  controller.BookListViewController : Twenty Thousand Leagues Under the Sea double clicked
+00:26:42.865 INFO  controller.BookDetailController : audit button clicked
+00:26:59.073 INFO  db.AuthorTableGateway : Closing connection...
+00:28:49.135 INFO  launcher.Launcher : start() called
+00:28:49.159 INFO  controller.ControllerSingleton : Creating connection...
+00:36:42.448 INFO  launcher.Launcher : start() called
+00:36:42.472 INFO  controller.ControllerSingleton : Creating connection...
+00:36:48.321 INFO  controller.BookListViewController : The Mist double clicked
+00:36:49.739 INFO  controller.BookDetailController : audit button clicked
+00:36:54.369 INFO  db.AuthorTableGateway : Closing connection...
+00:37:16.581 INFO  launcher.Launcher : start() called
+00:37:16.605 INFO  controller.ControllerSingleton : Creating connection...
+00:37:21.939 INFO  controller.BookListViewController : The Mist double clicked
+00:37:27.923 INFO  controller.BookDetailController : SAVE button clicked
+00:37:27.924 ERROR controller.BookDetailController : Invalid Title:	""
+00:37:32.569 INFO  controller.BookDetailController : SAVE button clicked
+00:37:32.569 ERROR controller.BookDetailController : Invalid Title:	""
+00:37:43.571 INFO  controller.BookDetailController : SAVE button clicked
+00:37:43.634 INFO  db.BookTableGateway : The Mist SAVED
+00:39:52.852 INFO  launcher.Launcher : start() called
+00:39:52.876 INFO  controller.ControllerSingleton : Creating connection...
+00:39:58.089 INFO  controller.BookListViewController : The Mist double clicked
+00:40:00.331 INFO  controller.BookDetailController : audit button clicked
+00:40:24.312 INFO  launcher.Launcher : start() called
+00:40:24.339 INFO  controller.ControllerSingleton : Creating connection...
+00:40:30.015 INFO  controller.BookListViewController : The Mist double clicked
+00:40:31.405 INFO  controller.BookDetailController : audit button clicked
+00:40:33.111 INFO  controller.BookDetailController : audit button clicked
+00:40:34.967 INFO  controller.BookDetailController : SAVE button clicked
+00:40:35.058 INFO  db.BookTableGateway : The Mist SAVED
+00:40:36.545 INFO  controller.BookDetailController : audit button clicked
+00:44:54.195 INFO  launcher.Launcher : start() called
+00:44:54.220 INFO  controller.ControllerSingleton : Creating connection...
+00:44:59.583 INFO  controller.BookListViewController : The Mist double clicked
+00:45:00.915 INFO  controller.BookDetailController : audit button clicked
+00:45:09.638 INFO  launcher.Launcher : start() called
+00:45:09.661 INFO  controller.ControllerSingleton : Creating connection...
+00:45:16.709 INFO  controller.BookListViewController : The Mist double clicked
+00:45:17.909 INFO  controller.BookDetailController : audit button clicked
+00:45:45.505 INFO  launcher.Launcher : start() called
+00:45:45.529 INFO  controller.ControllerSingleton : Creating connection...
+00:45:50.785 INFO  controller.BookListViewController : The Mist double clicked
+00:45:52.417 INFO  controller.BookDetailController : audit button clicked
+00:46:01.561 INFO  db.AuthorTableGateway : Closing connection...
+00:47:20.463 INFO  launcher.Launcher : start() called
+00:47:20.487 INFO  controller.ControllerSingleton : Creating connection...
+00:47:26.233 INFO  controller.BookListViewController : The Mist double clicked
+00:47:28.275 INFO  controller.BookDetailController : audit button clicked
+00:47:29.325 ERROR controller.ControllerSingleton : IO exception on view changer
+00:47:43.699 INFO  launcher.Launcher : start() called
+00:47:43.724 INFO  controller.ControllerSingleton : Creating connection...
+00:47:49.813 INFO  controller.BookListViewController : The Mist double clicked
+00:47:51.253 INFO  controller.BookDetailController : audit button clicked
+00:47:53.617 INFO  controller.AuditTrailController : Back clicked
+00:47:55.095 INFO  controller.BookDetailController : audit button clicked
+00:47:57.114 INFO  controller.AuditTrailController : Back clicked
+00:47:59.015 INFO  controller.BookDetailController : SAVE button clicked
+00:47:59.080 INFO  db.BookTableGateway : The Mist SAVED
+00:48:01.543 INFO  db.AuthorTableGateway : Closing connection...
+00:48:50.379 INFO  launcher.Launcher : start() called
+00:48:50.404 INFO  controller.ControllerSingleton : Creating connection...
+00:48:56.569 INFO  controller.BookListViewController : The Mist double clicked
+00:48:58.239 INFO  controller.BookDetailController : audit button clicked
+00:50:56.008 INFO  launcher.Launcher : start() called
+00:50:56.032 INFO  controller.ControllerSingleton : Creating connection...
+00:51:04.311 INFO  controller.BookListViewController : The Mist double clicked
+00:51:05.905 INFO  controller.BookDetailController : audit button clicked
+00:51:13.205 INFO  controller.BookDetailController : audit button clicked
+00:52:13.669 INFO  launcher.Launcher : start() called
+00:52:13.692 INFO  controller.ControllerSingleton : Creating connection...
+00:52:26.812 INFO  launcher.Launcher : start() called
+00:52:26.836 INFO  controller.ControllerSingleton : Creating connection...
+00:52:31.910 INFO  controller.BookListViewController : The Mist double clicked
+00:52:33.350 INFO  controller.BookDetailController : audit button clicked
+00:53:34.226 INFO  launcher.Launcher : start() called
+00:53:34.249 INFO  controller.ControllerSingleton : Creating connection...
+00:53:39.947 INFO  controller.BookListViewController : The Mist double clicked
+00:53:41.956 INFO  controller.BookDetailController : audit button clicked
+00:53:53.479 INFO  controller.AuditTrailController : Back clicked
+00:53:55.157 INFO  controller.BookDetailController : audit button clicked
+00:53:57.275 INFO  controller.AuditTrailController : Back clicked
+00:56:28.522 INFO  launcher.Launcher : start() called
+00:56:28.546 INFO  controller.ControllerSingleton : Creating connection...
+00:56:33.119 INFO  controller.BookListViewController : The Mist double clicked
+00:56:34.445 INFO  controller.BookDetailController : audit button clicked
+00:56:39.897 INFO  controller.BookDetailController : audit button clicked
+00:56:42.539 INFO  controller.BookDetailController : SAVE button clicked
+00:56:42.602 INFO  db.BookTableGateway : The Mist SAVED
+00:56:43.476 INFO  controller.BookDetailController : audit button clicked
+00:56:56.173 INFO  launcher.Launcher : start() called
+00:56:56.198 INFO  controller.ControllerSingleton : Creating connection...
+00:57:01.413 INFO  controller.BookListViewController : The Mist double clicked
+00:57:02.999 INFO  controller.BookDetailController : audit button clicked
+00:57:54.713 INFO  controller.BookDetailController : audit button clicked
+00:57:57.743 INFO  db.AuthorTableGateway : Closing connection...
+00:58:09.336 INFO  launcher.Launcher : start() called
+00:58:09.366 INFO  controller.ControllerSingleton : Creating connection...
+00:58:14.689 INFO  controller.BookListViewController : The Mist double clicked
+00:58:15.759 INFO  controller.BookDetailController : audit button clicked
+00:59:12.724 INFO  launcher.Launcher : start() called
+00:59:12.752 INFO  controller.ControllerSingleton : Creating connection...
+00:59:17.865 INFO  controller.BookListViewController : The Mist double clicked
+00:59:18.621 INFO  controller.BookDetailController : audit button clicked
+00:59:25.013 INFO  db.AuthorTableGateway : Closing connection...
+01:00:13.233 INFO  launcher.Launcher : start() called
+01:00:13.259 INFO  controller.ControllerSingleton : Creating connection...
+01:00:18.105 INFO  controller.BookListViewController : The Mist double clicked
+01:00:19.399 INFO  controller.BookDetailController : audit button clicked
+01:01:42.427 INFO  launcher.Launcher : start() called
+01:01:42.450 INFO  controller.ControllerSingleton : Creating connection...
+01:01:50.537 INFO  controller.BookListViewController : The Mist double clicked
+01:01:52.109 INFO  controller.BookDetailController : audit button clicked
+01:03:00.613 INFO  launcher.Launcher : start() called
+01:03:00.636 INFO  controller.ControllerSingleton : Creating connection...
+01:03:06.162 INFO  controller.BookListViewController : The Mist double clicked
+01:03:07.754 INFO  controller.BookDetailController : audit button clicked
+01:03:59.352 INFO  launcher.Launcher : start() called
+01:03:59.377 INFO  controller.ControllerSingleton : Creating connection...
+01:04:05.521 INFO  controller.BookListViewController : The Mist double clicked
+01:04:06.206 INFO  controller.BookDetailController : audit button clicked
+01:04:29.969 INFO  launcher.Launcher : start() called
+01:04:29.992 INFO  controller.ControllerSingleton : Creating connection...
+01:04:35.267 INFO  controller.BookListViewController : The Mist double clicked
+01:04:36.437 INFO  controller.BookDetailController : audit button clicked
+01:06:38.378 INFO  launcher.Launcher : start() called
+01:06:38.402 INFO  controller.ControllerSingleton : Creating connection...
+01:06:45.145 INFO  controller.BookListViewController : The Mist double clicked
+01:06:46.083 INFO  controller.BookDetailController : audit button clicked
+01:07:07.788 INFO  launcher.Launcher : start() called
+01:07:07.811 INFO  controller.ControllerSingleton : Creating connection...
+01:07:13.395 INFO  controller.BookListViewController : The Mist double clicked
+01:07:14.657 INFO  controller.BookDetailController : audit button clicked
+01:07:28.939 INFO  launcher.Launcher : start() called
+01:07:28.963 INFO  controller.ControllerSingleton : Creating connection...
+01:07:33.815 INFO  controller.BookListViewController : The Mist double clicked
+01:07:36.763 INFO  controller.BookDetailController : audit button clicked
+01:07:39.319 INFO  controller.AuditTrailController : Back clicked
+01:07:40.451 INFO  controller.BookDetailController : audit button clicked
+01:07:43.093 INFO  controller.AuditTrailController : Back clicked
+01:08:51.777 INFO  launcher.Launcher : start() called
+01:08:51.800 INFO  controller.ControllerSingleton : Creating connection...
+01:08:59.371 INFO  controller.BookListViewController : The Mist double clicked
+01:09:00.903 INFO  controller.BookDetailController : audit button clicked
+01:09:05.284 INFO  db.AuthorTableGateway : Closing connection...
+01:09:49.280 INFO  launcher.Launcher : start() called
+01:09:49.304 INFO  controller.ControllerSingleton : Creating connection...
+01:09:55.323 INFO  controller.BookListViewController : The Mist double clicked
+01:09:56.447 INFO  controller.BookDetailController : audit button clicked
+01:10:00.369 INFO  db.AuthorTableGateway : Closing connection...
+01:11:51.965 INFO  launcher.Launcher : start() called
+01:11:51.990 INFO  controller.ControllerSingleton : Creating connection...
+01:11:56.873 INFO  controller.BookListViewController : The Mist double clicked
+01:11:58.205 INFO  controller.BookDetailController : audit button clicked
+01:12:31.246 INFO  launcher.Launcher : start() called
+01:12:31.273 INFO  controller.ControllerSingleton : Creating connection...
+01:12:36.809 INFO  controller.BookListViewController : The Mist double clicked
+01:12:38.517 INFO  controller.BookDetailController : audit button clicked
+01:12:41.343 INFO  controller.AuditTrailController : Back clicked
+01:12:44.061 INFO  db.AuthorTableGateway : Closing connection...
+01:13:05.111 INFO  launcher.Launcher : start() called
+01:13:05.137 INFO  controller.ControllerSingleton : Creating connection...
+01:13:10.197 INFO  controller.BookListViewController : The Mist double clicked
+01:13:11.550 INFO  controller.BookDetailController : audit button clicked
+01:13:13.475 INFO  controller.AuditTrailController : Back clicked
+01:13:14.461 INFO  controller.AuditTrailController : Back clicked
+01:13:14.661 INFO  controller.AuditTrailController : Back clicked
+01:13:14.852 INFO  controller.AuditTrailController : Back clicked
+01:13:15.007 INFO  controller.AuditTrailController : Back clicked
+01:13:15.201 INFO  controller.AuditTrailController : Back clicked
+01:13:15.385 INFO  controller.AuditTrailController : Back clicked
+01:13:15.569 INFO  controller.AuditTrailController : Back clicked
+01:13:15.763 INFO  controller.AuditTrailController : Back clicked
+01:13:15.947 INFO  controller.AuditTrailController : Back clicked
+01:13:18.188 INFO  db.AuthorTableGateway : Closing connection...
+01:15:07.433 INFO  launcher.Launcher : start() called
+01:15:07.457 INFO  controller.ControllerSingleton : Creating connection...
+01:15:12.191 INFO  controller.BookListViewController : The Mist double clicked
+01:15:13.169 INFO  controller.BookDetailController : audit button clicked
+01:15:18.312 INFO  db.AuthorTableGateway : Closing connection...
+01:19:00.379 INFO  launcher.Launcher : start() called
+01:19:00.403 INFO  controller.ControllerSingleton : Creating connection...
+01:19:06.832 INFO  controller.BookDetailController : audit button clicked
+01:21:29.521 INFO  launcher.Launcher : start() called
+01:21:29.546 INFO  controller.ControllerSingleton : Creating connection...
+01:21:35.073 INFO  controller.BookListViewController : The Mist double clicked
+01:21:36.329 INFO  controller.BookDetailController : audit button clicked
+01:21:58.438 INFO  controller.AuditTrailController : Back clicked
+01:21:59.670 INFO  controller.AuditTrailController : Back clicked
+01:22:00.272 INFO  controller.AuditTrailController : Back clicked
+01:22:00.503 INFO  controller.AuditTrailController : Back clicked
+01:22:00.772 INFO  controller.AuditTrailController : Back clicked
+01:22:03.060 INFO  db.AuthorTableGateway : Closing connection...
+01:23:05.564 INFO  launcher.Launcher : start() called
+01:23:05.588 INFO  controller.ControllerSingleton : Creating connection...
+01:23:13.986 INFO  controller.BookListViewController : The Mist double clicked
+01:23:15.172 INFO  controller.BookDetailController : audit button clicked
+01:23:30.128 INFO  db.AuthorTableGateway : Closing connection...
+01:24:33.138 INFO  launcher.Launcher : start() called
+01:24:33.161 INFO  controller.ControllerSingleton : Creating connection...
+01:24:39.421 INFO  controller.BookListViewController : The Mist double clicked
+01:24:40.322 INFO  controller.BookDetailController : audit button clicked
+01:26:21.224 INFO  launcher.Launcher : start() called
+01:26:21.249 INFO  controller.ControllerSingleton : Creating connection...
+01:26:26.202 INFO  controller.BookListViewController : The Mist double clicked
+01:26:27.343 INFO  controller.BookDetailController : audit button clicked
+01:26:28.412 INFO  controller.AuditTrailController : label is null
+01:27:06.115 INFO  launcher.Launcher : start() called
+01:27:06.142 INFO  controller.ControllerSingleton : Creating connection...
+01:27:11.243 INFO  controller.BookListViewController : The Mist double clicked
+01:27:12.273 INFO  controller.BookDetailController : audit button clicked
+01:27:12.982 INFO  controller.AuditTrailController : label is null
+01:27:15.646 INFO  db.AuthorTableGateway : Closing connection...
+01:30:01.230 INFO  launcher.Launcher : start() called
+01:30:01.255 INFO  controller.ControllerSingleton : Creating connection...
+01:30:06.510 INFO  controller.BookListViewController : The Mist double clicked
+01:30:07.764 INFO  controller.BookDetailController : audit button clicked
+01:30:12.231 INFO  controller.AuditTrailController : Back clicked
+01:31:04.892 INFO  launcher.Launcher : start() called
+01:31:04.918 INFO  controller.ControllerSingleton : Creating connection...
+01:31:09.602 INFO  controller.BookListViewController : The Mist double clicked
+01:31:10.726 INFO  controller.BookDetailController : audit button clicked
+01:31:56.747 INFO  launcher.Launcher : start() called
+01:31:56.771 INFO  controller.ControllerSingleton : Creating connection...
+01:32:01.616 INFO  controller.BookListViewController : The Mist double clicked
+01:32:03.470 INFO  controller.BookDetailController : audit button clicked
+01:32:07.215 INFO  db.AuthorTableGateway : Closing connection...
+01:32:22.169 INFO  launcher.Launcher : start() called
+01:32:22.192 INFO  controller.ControllerSingleton : Creating connection...
+01:32:27.331 INFO  controller.BookListViewController : The Mist double clicked
+01:32:28.561 INFO  controller.BookDetailController : audit button clicked
+01:32:30.424 INFO  controller.AuditTrailController : Back clicked
+01:32:31.794 INFO  controller.BookDetailController : audit button clicked
+01:32:37.492 INFO  db.AuthorTableGateway : Closing connection...
+01:33:08.439 INFO  launcher.Launcher : start() called
+01:33:08.462 INFO  controller.ControllerSingleton : Creating connection...
+01:33:13.639 INFO  controller.BookListViewController : The Mist double clicked
+01:33:14.755 INFO  controller.BookDetailController : audit button clicked
+01:33:15.457 INFO  controller.AuditTrailController : Audit Trail initialized
+01:38:45.099 INFO  controller.AuditTrailController : Back clicked
+01:38:48.768 INFO  controller.BookDetailController : SAVE button clicked
+01:38:48.836 INFO  db.BookTableGateway : The Mist SAVED
+01:43:16.160 INFO  controller.BookDetailController : audit button clicked
+01:43:17.072 INFO  controller.AuditTrailController : Audit Trail initialized
+01:53:05.571 INFO  launcher.Launcher : start() called
+01:53:05.598 INFO  controller.ControllerSingleton : Creating connection...
+01:53:10.893 INFO  controller.BookListViewController : The Mist double clicked
+01:53:12.140 INFO  controller.BookDetailController : audit button clicked
+01:53:12.950 INFO  controller.AuditTrailController : Audit Trail initialized
+01:53:15.243 INFO  controller.AuditTrailController : Back clicked
+01:53:19.895 INFO  db.AuthorTableGateway : Closing connection...
+01:53:41.672 INFO  launcher.Launcher : start() called
+01:53:41.697 INFO  controller.ControllerSingleton : Creating connection...
+01:53:47.094 INFO  controller.BookListViewController : The Mist double clicked
+01:53:48.357 INFO  controller.BookDetailController : audit button clicked
+01:53:48.406 INFO  controller.AuditTrailController : Audit Trail initialized
+01:54:14.268 INFO  launcher.Launcher : start() called
+01:54:14.291 INFO  controller.ControllerSingleton : Creating connection...
+01:54:19.260 INFO  controller.BookListViewController : The Mist double clicked
+01:54:21.078 INFO  controller.BookDetailController : audit button clicked
+01:54:26.607 INFO  db.AuthorTableGateway : Closing connection...
+01:55:20.975 INFO  launcher.Launcher : start() called
+01:55:20.998 INFO  controller.ControllerSingleton : Creating connection...
+01:55:29.659 INFO  controller.BookListViewController : The Mist double clicked
+01:55:30.645 INFO  controller.BookDetailController : audit button clicked
+01:55:30.691 INFO  controller.AuditTrailController : Audit Trail initialized
+01:55:33.268 INFO  controller.AuditTrailController : Back clicked
+01:56:57.797 INFO  db.AuthorTableGateway : Closing connection...
+01:57:00.108 INFO  db.AuthorTableGateway : Closing connection...
+01:58:34.850 INFO  launcher.Launcher : start() called
+01:58:34.875 INFO  controller.ControllerSingleton : Creating connection...
+01:58:39.578 INFO  controller.BookListViewController : The Mist double clicked
+01:58:41.041 INFO  controller.BookDetailController : audit button clicked
+01:58:41.096 INFO  controller.AuditTrailController : Audit Trail initialized
+01:58:44.374 INFO  controller.AuditTrailController : Back clicked
+01:59:52.420 INFO  launcher.Launcher : start() called
+01:59:52.443 INFO  controller.ControllerSingleton : Creating connection...
+01:59:59.564 INFO  controller.BookListViewController : The Mist double clicked
+02:00:00.795 INFO  controller.BookDetailController : audit button clicked
+02:00:00.851 INFO  controller.AuditTrailController : Audit Trail initialized
+02:00:03.844 INFO  controller.AuditTrailController : Back clicked
+02:00:18.765 INFO  db.AuthorTableGateway : Closing connection...
+02:04:05.807 INFO  launcher.Launcher : start() called
+02:04:05.831 INFO  controller.ControllerSingleton : Creating connection...
+02:04:10.304 INFO  controller.BookListViewController : The Mist double clicked
+02:04:11.637 INFO  controller.BookDetailController : audit button clicked
+02:04:11.688 INFO  controller.AuditTrailController : Audit Trail initialized
+02:04:16.416 INFO  controller.AuditTrailController : Back clicked
+02:05:14.580 INFO  launcher.Launcher : start() called
+02:05:14.603 INFO  controller.ControllerSingleton : Creating connection...
+02:05:20.327 INFO  controller.BookListViewController : The Mist double clicked
+02:05:21.480 INFO  controller.BookDetailController : audit button clicked
+02:05:21.533 INFO  controller.AuditTrailController : Audit Trail initialized
+02:05:25.407 INFO  controller.AuditTrailController : Back clicked
+02:06:00.562 INFO  launcher.Launcher : start() called
+02:06:00.587 INFO  controller.ControllerSingleton : Creating connection...
+02:06:05.786 INFO  controller.BookListViewController : The Mist double clicked
+02:06:07.311 INFO  controller.BookDetailController : audit button clicked
+02:06:07.360 INFO  controller.AuditTrailController : Audit Trail initialized
+02:06:10.028 INFO  controller.AuditTrailController : Back clicked
+02:09:30.894 INFO  launcher.Launcher : start() called
+02:09:30.920 INFO  controller.ControllerSingleton : Creating connection...
+02:09:35.749 INFO  controller.BookListViewController : The Mist double clicked
+02:09:37.096 INFO  controller.BookDetailController : audit button clicked
+02:09:37.153 INFO  controller.AuditTrailController : Audit Trail initialized
+02:09:38.774 INFO  controller.AuditTrailController : Back clicked
+02:12:45.601 INFO  launcher.Launcher : start() called
+02:12:45.628 INFO  controller.ControllerSingleton : Creating connection...
+02:12:50.591 INFO  controller.BookListViewController : The Mist double clicked
+02:12:51.961 INFO  controller.BookDetailController : audit button clicked
+02:12:52.007 INFO  controller.AuditTrailController : Audit Trail initialized
+02:12:58.280 INFO  controller.AuditTrailController : Back clicked
+02:14:19.790 INFO  launcher.Launcher : start() called
+02:14:19.814 INFO  controller.ControllerSingleton : Creating connection...
+02:14:24.730 INFO  controller.BookListViewController : The Mist double clicked
+02:14:26.394 INFO  controller.BookDetailController : audit button clicked
+02:14:26.443 INFO  controller.AuditTrailController : Audit Trail initialized
+02:14:28.440 INFO  controller.AuditTrailController : Back clicked
+02:14:51.922 INFO  launcher.Launcher : start() called
+02:14:51.946 INFO  controller.ControllerSingleton : Creating connection...
+02:14:56.530 INFO  controller.BookListViewController : The Mist double clicked
+02:14:57.453 INFO  controller.BookDetailController : audit button clicked
+02:14:57.501 INFO  controller.AuditTrailController : Audit Trail initialized
+02:17:08.370 INFO  launcher.Launcher : start() called
+02:17:08.394 INFO  controller.ControllerSingleton : Creating connection...
+02:17:13.439 INFO  controller.BookListViewController : The Mist double clicked
+02:17:15.046 INFO  controller.BookDetailController : audit button clicked
+02:17:15.094 INFO  controller.AuditTrailController : Audit Trail initialized
+02:17:17.163 INFO  controller.AuditTrailController : Back clicked
+02:17:19.835 INFO  db.AuthorTableGateway : Closing connection...
+02:21:06.223 INFO  launcher.Launcher : start() called
+02:21:06.247 INFO  controller.ControllerSingleton : Creating connection...
+02:21:11.462 INFO  controller.BookListViewController : The Mist double clicked
+02:21:12.856 INFO  controller.BookDetailController : audit button clicked
+02:21:14.658 INFO  db.AuthorTableGateway : Closing connection...
+02:22:51.235 INFO  launcher.Launcher : start() called
+02:22:51.260 INFO  controller.ControllerSingleton : Creating connection...
+02:26:57.842 INFO  launcher.Launcher : start() called
+02:26:57.865 INFO  controller.ControllerSingleton : Creating connection...
+02:27:02.900 INFO  controller.BookListViewController : The Mist double clicked
+02:27:04.678 INFO  controller.BookDetailController : audit button clicked
+02:27:04.731 INFO  controller.AuditTrailController : Audit Trail initialized
+02:27:06.271 INFO  controller.AuditTrailController : Back clicked
+02:34:54.434 INFO  db.AuthorTableGateway : Closing connection...
+02:49:12.377 INFO  launcher.Launcher : start() called
+02:49:12.404 INFO  controller.ControllerSingleton : Creating connection...
+02:49:40.586 INFO  controller.BookDetailController : audit button clicked
+02:49:40.638 INFO  controller.AuditTrailController : Audit Trail initialized
+02:49:42.010 INFO  controller.AuditTrailController : Back clicked
+02:49:43.226 INFO  controller.BookDetailController : SAVE button clicked
+02:49:43.346 INFO  db.BookTableGateway : Cell INSERTED
+02:50:48.854 INFO  db.AuthorTableGateway : Closing connection...
+02:50:52.834 INFO  db.AuthorTableGateway : Closing connection...
+02:51:36.986 INFO  launcher.Launcher : start() called
+02:51:37.010 INFO  controller.ControllerSingleton : Creating connection...
+02:51:45.908 INFO  controller.BookDetailController : SAVE button clicked
+02:51:46.022 INFO  db.BookTableGateway : Cell INSERTED
+02:52:02.452 INFO  controller.BookDetailController : SAVE button clicked
+02:52:02.540 INFO  db.BookTableGateway : Cell SAVED
+02:52:04.632 INFO  controller.BookDetailController : audit button clicked
+02:52:04.683 INFO  controller.AuditTrailController : Audit Trail initialized
+02:52:09.080 INFO  controller.BookListViewController : Cell double clicked
+02:52:10.312 INFO  controller.BookDetailController : audit button clicked
+02:52:10.360 INFO  controller.AuditTrailController : Audit Trail initialized
+02:52:12.390 INFO  controller.AuditTrailController : Back clicked
+02:52:17.402 INFO  controller.BookListViewController : Cell double clicked
+02:52:18.680 INFO  controller.BookDetailController : audit button clicked
+02:52:18.724 INFO  controller.AuditTrailController : Audit Trail initialized
+02:52:22.452 INFO  controller.AuditTrailController : Back clicked
+02:52:31.830 INFO  db.BookTableGateway : StringProperty [value: Cell] DELETED
+02:52:34.939 INFO  db.BookTableGateway : StringProperty [value: Cell] DELETED
+02:55:50.640 INFO  controller.BookListViewController : The Mist double clicked
+02:55:51.618 INFO  controller.BookDetailController : audit button clicked
+02:55:51.662 INFO  controller.AuditTrailController : Audit Trail initialized
+02:55:54.428 INFO  controller.AuditTrailController : Back clicked
+02:56:57.579 INFO  launcher.Launcher : start() called
+02:56:57.603 INFO  controller.ControllerSingleton : Creating connection...
+02:57:03.882 INFO  controller.BookListViewController : The Mist double clicked
+02:57:05.266 INFO  controller.BookDetailController : audit button clicked
+02:57:05.317 INFO  controller.AuditTrailController : Audit Trail initialized
+02:57:18.224 INFO  controller.BookDetailController : audit button clicked
+02:57:18.278 INFO  controller.AuditTrailController : Audit Trail initialized
+02:57:20.534 INFO  controller.AuditTrailController : Back clicked
+02:57:22.536 INFO  controller.BookDetailController : SAVE button clicked
+02:57:22.644 INFO  db.BookTableGateway : Cell INSERTED
+02:57:22.724 INFO  db.BookTableGateway : Book added
+02:57:24.898 INFO  controller.BookDetailController : audit button clicked
+02:57:24.947 INFO  controller.AuditTrailController : Audit Trail initialized
+02:57:32.944 INFO  controller.AuditTrailController : Back clicked
+02:58:30.167 INFO  db.AuthorTableGateway : Closing connection...
+02:59:27.057 INFO  launcher.Launcher : start() called
+02:59:27.083 INFO  controller.ControllerSingleton : Creating connection...
+02:59:31.913 INFO  controller.BookListViewController : The Mist double clicked
+02:59:33.212 INFO  controller.BookDetailController : audit button clicked
+02:59:33.269 INFO  controller.AuditTrailController : Audit Trail initialized
+02:59:44.562 INFO  db.AuthorTableGateway : Closing connection...
+03:00:01.105 INFO  launcher.Launcher : start() called
+03:00:01.130 INFO  controller.ControllerSingleton : Creating connection...
+03:00:07.116 INFO  controller.BookListViewController : The Mist double clicked
+03:00:08.232 INFO  controller.BookDetailController : audit button clicked
+03:00:08.292 INFO  controller.AuditTrailController : Audit Trail initialized
+03:00:09.894 INFO  controller.AuditTrailController : Back clicked
+03:00:13.714 INFO  db.AuthorTableGateway : Closing connection...
+03:06:03.504 INFO  launcher.Launcher : start() called
+03:06:03.528 INFO  controller.ControllerSingleton : Creating connection...
+03:06:08.980 INFO  controller.BookListViewController : Cell double clicked
+03:06:11.982 INFO  controller.BookDetailController : SAVE button clicked
+03:06:12.044 INFO  db.BookTableGateway : Cellz SAVED
+03:07:24.114 INFO  launcher.Launcher : start() called
+03:07:24.139 INFO  controller.ControllerSingleton : Creating connection...
+03:07:28.636 INFO  controller.BookListViewController : Cellz double clicked
+03:07:31.430 INFO  controller.BookDetailController : SAVE button clicked
+03:07:31.431 INFO  controller.BookDetailController : title changed!
+03:07:31.499 INFO  db.BookTableGateway : Cell SAVED
+03:13:24.704 INFO  launcher.Launcher : start() called
+03:13:24.729 INFO  controller.ControllerSingleton : Creating connection...
+03:13:29.710 INFO  controller.BookListViewController : Cell double clicked
+03:13:33.398 INFO  controller.BookDetailController : SAVE button clicked
+03:13:33.398 INFO  controller.BookDetailController : title changed!
+03:13:33.458 INFO  db.BookTableGateway : Book added
+03:13:33.517 INFO  db.BookTableGateway : Cellz SAVED
+03:13:34.692 INFO  controller.BookDetailController : audit button clicked
+03:13:34.739 INFO  controller.AuditTrailController : Audit Trail initialized
+03:13:38.070 INFO  controller.AuditTrailController : Back clicked
+03:13:41.750 INFO  controller.BookDetailController : SAVE button clicked
+03:13:41.751 INFO  controller.BookDetailController : title changed!
+03:13:41.859 INFO  db.BookTableGateway : Cell SAVED
+03:13:44.292 INFO  controller.BookDetailController : audit button clicked
+03:13:44.338 INFO  controller.AuditTrailController : Audit Trail initialized
+03:13:45.921 INFO  controller.AuditTrailController : Back clicked
+03:13:48.310 INFO  controller.BookDetailController : SAVE button clicked
+03:13:48.378 INFO  db.BookTableGateway : Cell SAVED
+03:13:50.358 INFO  controller.BookDetailController : audit button clicked
+03:13:50.406 INFO  controller.AuditTrailController : Audit Trail initialized
+03:13:51.642 INFO  controller.AuditTrailController : Back clicked
+03:13:53.898 INFO  controller.BookDetailController : SAVE button clicked
+03:13:53.898 INFO  controller.BookDetailController : title changed!
+03:13:53.962 INFO  db.BookTableGateway : Book added
+03:13:54.029 INFO  db.BookTableGateway : Cellz SAVED
+03:13:54.938 INFO  controller.BookDetailController : audit button clicked
+03:13:54.986 INFO  controller.AuditTrailController : Audit Trail initialized
+03:13:56.468 INFO  controller.AuditTrailController : Back clicked
+03:14:02.242 INFO  controller.BookDetailController : SAVE button clicked
+03:14:02.305 INFO  db.BookTableGateway : Cellz SAVED
+03:14:07.014 INFO  controller.BookListViewController : Cellz double clicked
+03:14:10.032 INFO  controller.BookDetailController : SAVE button clicked
+03:14:10.032 INFO  controller.BookDetailController : title changed!
+03:14:10.139 INFO  db.BookTableGateway : Cell SAVED
+03:14:12.542 INFO  controller.BookDetailController : audit button clicked
+03:14:12.589 INFO  controller.AuditTrailController : Audit Trail initialized
+03:14:17.539 INFO  db.AuthorTableGateway : Closing connection...
+03:15:12.149 INFO  launcher.Launcher : start() called
+03:15:12.173 INFO  controller.ControllerSingleton : Creating connection...
+03:15:20.726 INFO  controller.BookListViewController : Cell double clicked
+03:15:23.630 INFO  controller.BookDetailController : SAVE button clicked
+03:15:23.630 INFO  controller.BookDetailController : title changed!
+03:15:23.694 INFO  db.BookTableGateway : Book added
+03:15:23.753 INFO  db.BookTableGateway : Cellz SAVED
+03:15:24.776 INFO  controller.BookDetailController : audit button clicked
+03:15:24.828 INFO  controller.AuditTrailController : Audit Trail initialized
+03:15:26.755 INFO  controller.AuditTrailController : Back clicked
+03:15:28.882 INFO  db.AuthorTableGateway : Closing connection...
+03:15:32.298 INFO  launcher.Launcher : start() called
+03:15:32.321 INFO  controller.ControllerSingleton : Creating connection...
+03:15:35.233 INFO  db.AuthorTableGateway : Closing connection...
+03:15:41.565 INFO  launcher.Launcher : start() called
+03:15:41.589 INFO  controller.ControllerSingleton : Creating connection...
+03:15:46.578 INFO  controller.BookListViewController : Cellz double clicked
+03:15:49.936 INFO  controller.BookDetailController : SAVE button clicked
+03:15:49.937 INFO  controller.BookDetailController : title changed!
+03:15:50.086 INFO  db.BookTableGateway : Cell SAVED
+03:15:51.436 INFO  controller.BookDetailController : audit button clicked
+03:15:51.485 INFO  controller.AuditTrailController : Audit Trail initialized
+03:15:54.186 INFO  db.AuthorTableGateway : Closing connection...
+03:17:10.837 INFO  launcher.Launcher : start() called
+03:17:10.861 INFO  controller.ControllerSingleton : Creating connection...
+03:17:16.878 INFO  controller.BookListViewController : The Mist double clicked
+03:17:24.000 INFO  controller.BookDetailController : SAVE button clicked
+03:17:24.000 INFO  controller.BookDetailController : title changed!
+03:17:24.129 INFO  db.BookTableGateway : The Fog SAVED
+03:17:25.894 INFO  controller.BookDetailController : audit button clicked
+03:17:25.942 INFO  controller.AuditTrailController : Audit Trail initialized
+03:17:27.272 INFO  controller.AuditTrailController : Back clicked
+03:17:30.299 INFO  db.AuthorTableGateway : Closing connection...
+03:17:33.350 INFO  launcher.Launcher : start() called
+03:17:33.374 INFO  controller.ControllerSingleton : Creating connection...
+03:17:38.250 INFO  controller.BookListViewController : The Fog double clicked
+03:17:42.786 INFO  controller.BookDetailController : SAVE button clicked
+03:17:42.787 INFO  controller.BookDetailController : title changed!
+03:17:42.849 INFO  db.BookTableGateway : Book added
+03:17:42.924 INFO  db.BookTableGateway : The Mist SAVED
+03:17:46.582 INFO  controller.BookDetailController : audit button clicked
+03:17:46.708 INFO  controller.AuditTrailController : Audit Trail initialized
+03:17:58.130 INFO  controller.AuditTrailController : Back clicked
+03:20:30.991 INFO  launcher.Launcher : start() called
+03:20:31.017 INFO  controller.ControllerSingleton : Creating connection...
+03:20:36.552 INFO  controller.BookListViewController : The Mist double clicked
+03:20:42.442 INFO  controller.BookDetailController : SAVE button clicked
+03:20:42.443 INFO  controller.BookDetailController : title changed!
+03:20:42.548 INFO  db.BookTableGateway : The Fog SAVED
+03:20:47.213 INFO  controller.BookDetailController : audit button clicked
+03:20:47.261 INFO  controller.AuditTrailController : Audit Trail initialized
+03:20:49.483 INFO  controller.AuditTrailController : Back clicked
+03:20:54.618 INFO  controller.BookDetailController : SAVE button clicked
+03:20:54.618 INFO  controller.BookDetailController : title changed!
+03:20:54.723 INFO  db.BookTableGateway : The Mist SAVED
+03:20:56.482 INFO  controller.BookDetailController : audit button clicked
+03:20:56.529 INFO  controller.AuditTrailController : Audit Trail initialized
+03:20:59.230 INFO  controller.AuditTrailController : Back clicked
+03:26:09.204 INFO  launcher.Launcher : start() called
+03:26:09.228 INFO  controller.ControllerSingleton : Creating connection...
+03:26:16.212 INFO  controller.BookListViewController : The Mist double clicked
+03:26:21.546 INFO  controller.BookDetailController : audit button clicked
+03:26:21.595 INFO  controller.AuditTrailController : Audit Trail initialized
+03:26:23.178 INFO  controller.AuditTrailController : Back clicked
+03:26:24.402 INFO  controller.BookDetailController : SAVE button clicked
+03:26:24.464 INFO  db.BookTableGateway : The Fog SAVED
+03:26:26.226 INFO  controller.BookDetailController : audit button clicked
+03:26:26.272 INFO  controller.AuditTrailController : Audit Trail initialized
+03:26:27.595 INFO  controller.AuditTrailController : Back clicked
+03:26:30.620 INFO  controller.BookDetailController : audit button clicked
+03:26:30.670 INFO  controller.AuditTrailController : Audit Trail initialized
+03:26:31.814 INFO  controller.AuditTrailController : Back clicked
+03:26:36.369 INFO  controller.BookDetailController : SAVE button clicked
+03:26:36.370 INFO  controller.BookDetailController : title changed!
+03:26:36.489 INFO  db.BookTableGateway : The Mist SAVED
+03:26:37.699 INFO  controller.BookDetailController : audit button clicked
+03:26:37.747 INFO  controller.AuditTrailController : Audit Trail initialized
+03:26:38.710 INFO  controller.AuditTrailController : Back clicked
+03:26:45.775 INFO  db.AuthorTableGateway : Closing connection...
+03:27:08.486 INFO  launcher.Launcher : start() called
+03:27:08.509 INFO  controller.ControllerSingleton : Creating connection...
+03:27:14.853 INFO  controller.BookListViewController : Cell double clicked
+03:27:22.535 INFO  controller.BookListViewController : The Mist double clicked
+03:27:27.561 INFO  controller.BookDetailController : SAVE button clicked
+03:27:27.562 INFO  controller.BookDetailController : title changed!
+03:27:27.623 INFO  db.BookTableGateway : Book added
+03:27:27.693 INFO  db.BookTableGateway : The Fog SAVED
+03:27:29.307 INFO  controller.BookDetailController : audit button clicked
+03:27:29.354 INFO  controller.AuditTrailController : Audit Trail initialized
+03:27:30.901 INFO  controller.AuditTrailController : Back clicked
+03:27:34.857 INFO  controller.BookDetailController : SAVE button clicked
+03:27:34.858 INFO  controller.BookDetailController : title changed!
+03:27:34.925 INFO  db.BookTableGateway : Book added
+03:27:35.002 INFO  db.BookTableGateway : The Mist SAVED
+03:27:35.859 INFO  controller.BookDetailController : audit button clicked
+03:27:35.907 INFO  controller.AuditTrailController : Audit Trail initialized
+03:29:51.839 INFO  db.AuthorTableGateway : Closing connection...
+04:08:01.983 INFO  launcher.Launcher : start() called
+04:08:02.014 INFO  controller.ControllerSingleton : Creating connection...
+04:08:10.040 INFO  controller.BookListViewController : Cell double clicked
+04:08:11.080 INFO  controller.BookDetailController : audit button clicked
+04:08:11.134 INFO  controller.AuditTrailController : Audit Trail initialized
+04:08:13.429 INFO  controller.AuditTrailController : Back clicked
+04:08:17.019 INFO  controller.BookDetailController : SAVE button clicked
+04:08:17.019 INFO  controller.BookDetailController : title changed!
+04:08:17.081 INFO  db.BookTableGateway : Book added
+04:08:17.141 INFO  db.BookTableGateway : Cellz SAVED
+04:08:17.889 INFO  controller.BookDetailController : audit button clicked
+04:08:17.938 INFO  controller.AuditTrailController : Audit Trail initialized
+04:08:19.369 INFO  controller.AuditTrailController : Back clicked
+04:08:22.181 INFO  controller.BookDetailController : SAVE button clicked
+04:08:22.182 INFO  controller.BookDetailController : title changed!
+04:08:22.250 INFO  db.BookTableGateway : Book added
+04:08:22.309 INFO  db.BookTableGateway : Cell SAVED
+04:08:24.045 INFO  controller.BookDetailController : audit button clicked
+04:08:24.095 INFO  controller.AuditTrailController : Audit Trail initialized
+04:08:33.245 INFO  controller.AuditTrailController : Back clicked
+04:12:12.707 INFO  launcher.Launcher : start() called
+04:12:12.735 INFO  controller.ControllerSingleton : Creating connection...
+04:12:23.569 INFO  controller.BookListViewController : Cell double clicked
+04:12:47.033 INFO  controller.BookDetailController : SAVE button clicked
+04:12:47.034 INFO  controller.BookDetailController : summary changed!
+04:12:47.099 INFO  db.BookTableGateway : Book added
+04:12:47.099 INFO  controller.BookDetailController : year changed!
+04:12:47.158 INFO  db.BookTableGateway : Book added
+04:12:47.159 INFO  controller.BookDetailController : isbn changed!
+04:12:47.216 INFO  db.BookTableGateway : Book added
+04:12:47.275 INFO  db.BookTableGateway : Cell SAVED
+04:12:49.075 INFO  controller.BookDetailController : audit button clicked
+04:12:49.124 INFO  controller.AuditTrailController : Audit Trail initialized
+04:13:05.548 INFO  controller.AuditTrailController : Back clicked
+04:13:08.946 INFO  db.AuthorTableGateway : Closing connection...
+04:13:58.997 INFO  launcher.Launcher : start() called
+04:13:59.020 INFO  controller.ControllerSingleton : Creating connection...
+04:14:05.208 INFO  controller.BookDetailController : audit button clicked
+04:14:05.259 INFO  controller.AuditTrailController : Audit Trail initialized
+04:14:08.044 INFO  controller.AuditTrailController : Back clicked
+04:15:37.427 INFO  launcher.Launcher : start() called
+04:15:37.450 INFO  controller.ControllerSingleton : Creating connection...
+04:15:45.350 INFO  controller.BookDetailController : audit button clicked
+04:15:45.398 INFO  controller.AuditTrailController : Audit Trail initialized
+04:15:46.551 INFO  controller.AuditTrailController : Back clicked
+04:16:02.457 INFO  db.AuthorTableGateway : Closing connection...
+04:17:19.349 INFO  launcher.Launcher : start() called
+04:17:19.373 INFO  controller.ControllerSingleton : Creating connection...
+04:17:25.859 INFO  controller.BookDetailController : audit button clicked
+04:17:33.439 INFO  controller.BookDetailController : audit button clicked
+04:18:52.919 INFO  controller.BookDetailController : SAVE button clicked
+04:18:52.920 INFO  controller.BookDetailController : title changed!
+04:18:53.025 INFO  db.BookTableGateway : Book added
+04:18:53.026 INFO  controller.BookDetailController : summary changed!
+04:18:53.101 INFO  db.BookTableGateway : Book added
+04:18:53.101 INFO  controller.BookDetailController : year changed!
+04:18:53.167 INFO  db.BookTableGateway : Book added
+04:18:53.167 INFO  controller.BookDetailController : isbn changed!
+04:18:53.234 INFO  db.BookTableGateway : Book added
+04:18:53.341 INFO  db.BookTableGateway : The Shining INSERTED
+04:18:53.401 INFO  db.BookTableGateway : Book added
+04:18:54.621 INFO  controller.BookDetailController : audit button clicked
+04:18:54.682 INFO  controller.AuditTrailController : Audit Trail initialized
+04:18:56.007 INFO  controller.AuditTrailController : Back clicked
+04:18:56.824 INFO  controller.BookDetailController : audit button clicked
+04:18:56.871 INFO  controller.AuditTrailController : Audit Trail initialized
+04:18:57.771 INFO  controller.AuditTrailController : Back clicked
+04:19:06.551 INFO  controller.BookListViewController : The Shining double clicked
+04:19:07.691 INFO  controller.BookDetailController : audit button clicked
+04:19:07.740 INFO  controller.AuditTrailController : Audit Trail initialized
+04:19:08.824 INFO  controller.AuditTrailController : Back clicked
+04:19:18.357 INFO  controller.BookDetailController : audit button clicked
+04:19:18.405 INFO  controller.AuditTrailController : Audit Trail initialized
+04:19:20.035 INFO  controller.AuditTrailController : Back clicked
+04:19:23.195 INFO  db.AuthorTableGateway : Closing connection...
+04:22:00.176 INFO  launcher.Launcher : start() called
+04:22:00.200 INFO  controller.ControllerSingleton : Creating connection...
+04:22:07.061 INFO  controller.BookListViewController : Cell double clicked
+04:22:08.601 INFO  controller.BookDetailController : audit button clicked
+04:22:08.651 INFO  controller.AuditTrailController : Audit Trail initialized
+04:22:11.743 INFO  controller.AuditTrailController : Back clicked
+04:22:15.949 INFO  db.AuthorTableGateway : Closing connection...
+15:48:29.051 INFO  launcher.Launcher : start() called
+15:48:29.076 INFO  controller.ControllerSingleton : Creating connection...
+15:48:44.081 INFO  controller.AuthorListViewController : H.G. Wells double clicked
+15:48:57.049 INFO  controller.AuthorDetailController : SAVE button clicked
+15:48:57.083 INFO  db.AuthorTableGateway : H.G. Wells SAVED
+15:50:07.806 INFO  launcher.Launcher : start() called
+15:50:07.832 INFO  controller.ControllerSingleton : Creating connection...
+15:50:15.397 INFO  controller.AuthorListViewController : Joanne Rowling double clicked
+15:50:23.591 INFO  controller.AuthorDetailController : SAVE button clicked
+15:50:23.622 INFO  db.AuthorTableGateway : Joanne Rowling SAVED
+15:50:29.334 INFO  controller.AuthorListViewController : Joey Wilsongabba double clicked
+15:50:32.864 INFO  controller.AuthorDetailController : SAVE button clicked
+15:50:32.891 INFO  db.AuthorTableGateway : Joey Wilsongabba SAVED
+15:50:37.510 INFO  controller.AuthorListViewController : Jules Verne double clicked
+15:50:40.597 INFO  controller.AuthorDetailController : SAVE button clicked
+15:50:40.624 INFO  db.AuthorTableGateway : Jules Verne SAVED
+15:50:44.551 INFO  controller.AuthorListViewController : Ray Bradburry double clicked
+15:50:47.494 INFO  controller.AuthorDetailController : SAVE button clicked
+15:50:47.525 INFO  db.AuthorTableGateway : Ray Bradburry SAVED
+15:50:50.921 INFO  db.AuthorTableGateway : Closing connection...
