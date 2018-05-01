@@ -27,6 +27,7 @@
                            <MenuItem fx:id="menuItemAddBook" mnemonicParsing="false" onAction="#handleMenuAction" text="Add Book" />
                        </items>
                      </Menu>
+               <MenuItem fx:id="menuItemReports" onAction="#handleMenuAction" text="Reports" />
                <MenuItem fx:id="menuItemQuit" onAction="#handleMenuAction" text="Quit" />
                <!--<MenuItem fx:id="menuItemGenerate" onAction="#handleMenuAction" text="Generate" />-->
             </items>

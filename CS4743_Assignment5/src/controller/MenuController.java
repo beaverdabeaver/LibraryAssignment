@@ -39,6 +39,7 @@ public class MenuController implements Initializable {
 	@FXML private MenuItem menuItemAddBook;
 	@FXML private MenuItem menuItemQuit;
 	@FXML private MenuItem menuItemGenerate;
+	@FXML private MenuItem menuItemReports;
 	@FXML private BorderPane rootPane;
 
 	public MenuController() {
@@ -73,6 +74,10 @@ public class MenuController implements Initializable {
 		else if(event.getSource() == menuItemQuit) {
 			authorGateway.closeConnection();
 			System.exit(0);
+		}
+		//Report
+		else if(event.getSource() == menuItemReports){
+			controller.changeView("/view/ReportSaveView.fxml", new ReportController(rootPane), rootPane);
 		}
 		//Generate Books
 		/*
