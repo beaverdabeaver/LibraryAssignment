@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -181,6 +182,14 @@ public class BookTableGateway {
 		PreparedStatement st = conn.prepareStatement("SELECT * FROM Book WHERE title LIKE '%" + stringToFind + "%'");
 		getSearchedRecordNumber(stringToFind);
 		return searchBooks(st);
+	}
+	
+	public List<Book> getBooksByPublisherID(int pub_id) throws Exception{
+		//PreparedStatement st = conn.prepareStatement("SELECT * FROM `Book` WHERE publisher_id = ? ORDER BY `Book`.`title` ASC");
+		PreparedStatement st = conn.prepareStatement("SELECT * FROM `Book` WHERE publisher_id = ?");
+		st.setInt(1, pub_id);
+		List<Book> book  = searchBooks(st);
+		return book;
 	}
 
 	public ObservableList<AuditTrailEntry> getAudits(int book_id) throws Exception{
