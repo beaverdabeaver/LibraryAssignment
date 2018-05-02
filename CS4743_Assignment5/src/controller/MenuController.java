@@ -5,18 +5,26 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
 import java.util.ResourceBundle;
 import java.util.concurrent.ThreadLocalRandom;
 
+import auth.LibSession;
+import auth.LoginClient;
+import auth.LoginDialog;
 import book.Book;
 import book.Publisher;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.control.Dialog;
 import javafx.scene.control.MenuBar;
 import javafx.scene.control.MenuItem;
 import javafx.scene.layout.BorderPane;
+import javafx.util.Pair;
+import misc.AlertHelper;
 import db.AuthorTableGateway;
 import db.BookTableGateway;
 import db.GatewayDistributer;
@@ -31,7 +39,10 @@ public class MenuController implements Initializable {
 	private ObservableList<Author> authors;
 	private ObservableList<Book> books;
 	private ControllerSingleton controller;
-
+	private LoginClient loginClient;
+	private LibSession currentSession;
+	
+	
 	@FXML private MenuBar menuBar;
 	@FXML private MenuItem menuItemAddAuthors;
 	@FXML private MenuItem menuItemAuthors;
@@ -40,6 +51,8 @@ public class MenuController implements Initializable {
 	@FXML private MenuItem menuItemQuit;
 	@FXML private MenuItem menuItemGenerate;
 	@FXML private MenuItem menuItemReports;
+	@FXML private MenuItem menuItemLogin;
+	@FXML private MenuItem menuItemLogout;
 	@FXML private BorderPane rootPane;
 
 	public MenuController() {
@@ -48,6 +61,10 @@ public class MenuController implements Initializable {
 
 		bookGateway = distributer.getBookGateway();
 		authorGateway = distributer.getAuthorGateway();
+		
+		loginClient = LoginClient.getInstance();
+		
+		
 	}
 
 	@FXML private void handleMenuAction(ActionEvent event) throws Exception {
@@ -79,6 +96,18 @@ public class MenuController implements Initializable {
 		else if(event.getSource() == menuItemReports){
 			controller.changeView("/view/ReportSaveView.fxml", new ReportController(rootPane), rootPane);
 		}
+		else if(event.getSource() == menuItemLogin){
+			Pair<String,String> login = LoginDialog.showLoginDialog();
+			loginClient.login(login.getKey(), login.getValue());
+			currentSession = loginClient.getSession();
+			unlock(currentSession);
+		}
+		else if(event.getSource() == menuItemLogout){
+			controller.removeView(rootPane);
+			loginClient.logout(currentSession);
+			currentSession = new LibSession("Guest", 0);
+			unlock(currentSession);
+		}
 		//Generate Books
 		/*
 		else if(event.getSource() == menuItemGenerate){
@@ -86,9 +115,53 @@ public class MenuController implements Initializable {
 			generateBooks();
 		}*/
 	}
+	
+	private void unlock(LibSession current){
+		if(current.authType().equals("Admin")){
+			//System.out.println("hey you logged in as ADMIN from a remote auth server!");
+			menuItemAddAuthors.setDisable(false);
+			menuItemAuthors.setDisable(false);
+			menuItemBooks.setDisable(false);
+			menuItemAddBook.setDisable(false);
+			menuItemReports.setDisable(false);
+			menuItemLogout.setDisable(false);
+			menuItemLogin.setDisable(true);
+		} else if(current.authType().equals("Data Entry")){
+			//System.out.println("hey you logged in as DATA ENTRY from a remote auth server!");
+			menuItemAddAuthors.setDisable(false);
+			menuItemAuthors.setDisable(false);
+			menuItemBooks.setDisable(false);
+			menuItemAddBook.setDisable(false);
+			menuItemReports.setDisable(false);
+			menuItemLogout.setDisable(false);
+			menuItemLogin.setDisable(true);
+		} else if(current.authType().equals("Intern")){
+			//System.out.println("hey you logged in as INTERN from a remote auth server!");
+			menuItemAuthors.setDisable(false);
+			menuItemBooks.setDisable(false);
+			menuItemLogout.setDisable(false);
+			menuItemLogin.setDisable(true);
+		} else {
+			//System.out.println("hey you logged in as GUEST from a remote auth server!");
+			menuBar.setFocusTraversable(true);
+			menuItemAddAuthors.setDisable(true);
+			menuItemAuthors.setDisable(true);
+			menuItemBooks.setDisable(true);
+			menuItemAddBook.setDisable(true);
+			menuItemReports.setDisable(true);
+			menuItemLogout.setDisable(true);
+			menuItemLogin.setDisable(false);
+		}
+	}
 
 	public void initialize(URL location, ResourceBundle resources) {
 		menuBar.setFocusTraversable(true);
+		menuItemAddAuthors.setDisable(true);
+		menuItemAuthors.setDisable(true);
+		menuItemBooks.setDisable(true);
+		menuItemAddBook.setDisable(true);
+		menuItemReports.setDisable(true);
+		menuItemLogout.setDisable(true);
 	}
 /*
 	private void generateBooks() throws Exception{

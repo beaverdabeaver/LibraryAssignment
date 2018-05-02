@@ -4,6 +4,8 @@ import java.net.URL;
 import java.util.ResourceBundle;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import auth.LoginClient;
 import book.Book;
 import db.BookTableGateway;
 import db.GatewayDistributer;
@@ -121,6 +123,15 @@ public class BookListViewController implements Initializable{
 
 	public void initialize(URL location, ResourceBundle resources) {
 		bookList.setItems(books);
+		if(LoginClient.getInstance().getSession().authType().equals("Guest")){
+			deleteButton.setDisable(true);
+		}
+		else if(LoginClient.getInstance().getSession().authType().equals("Intern")){
+			deleteButton.setDisable(true);
+		}
+		else if(LoginClient.getInstance().getSession().authType().equals("Data Entry")){
+			deleteButton.setDisable(true);
+		}
 		pageLabel.setText("Fetched records " + gateway.getStart() + " to " + gateway.getEnd() + " out of " + gateway.getTotalReturnedRecords());
 	}
 }

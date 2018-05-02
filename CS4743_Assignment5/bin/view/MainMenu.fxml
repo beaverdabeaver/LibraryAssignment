@@ -24,10 +24,12 @@
                      <Menu mnemonicParsing="false" text="Books">
                        <items>
                          <MenuItem fx:id="menuItemBooks" mnemonicParsing="false" onAction="#handleMenuAction" text="Book List" />
-                           <MenuItem fx:id="menuItemAddBook" mnemonicParsing="false" onAction="#handleMenuAction" text="Add Book" />
+                         <MenuItem fx:id="menuItemAddBook" mnemonicParsing="false" onAction="#handleMenuAction" text="Add Book" />
                        </items>
                      </Menu>
                <MenuItem fx:id="menuItemReports" onAction="#handleMenuAction" text="Reports" />
+               <MenuItem fx:id="menuItemLogin" onAction="#handleMenuAction" text="Login" />
+               <MenuItem fx:id="menuItemLogout" onAction="#handleMenuAction" text="Logout" />
                <MenuItem fx:id="menuItemQuit" onAction="#handleMenuAction" text="Quit" />
                <!--<MenuItem fx:id="menuItemGenerate" onAction="#handleMenuAction" text="Generate" />-->
             </items>

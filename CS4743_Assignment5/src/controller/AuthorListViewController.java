@@ -6,6 +6,7 @@ import java.util.ResourceBundle;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import auth.LoginClient;
 import db.AuthorTableGateway;
 import db.GatewayDistributer;
 import javafx.collections.ObservableList;
@@ -66,5 +67,14 @@ public class AuthorListViewController implements Initializable{
 
 	public void initialize(URL location, ResourceBundle resources) {
 		authorList.setItems(authors);
+		if(LoginClient.getInstance().getSession().authType().equals("Guest")){
+			deleteButton.setDisable(true);
+		}
+		else if(LoginClient.getInstance().getSession().authType().equals("Intern")){
+			deleteButton.setDisable(true);
+		}
+		else if(LoginClient.getInstance().getSession().authType().equals("Data Entry")){
+			deleteButton.setDisable(true);
+		}
 	}
 }

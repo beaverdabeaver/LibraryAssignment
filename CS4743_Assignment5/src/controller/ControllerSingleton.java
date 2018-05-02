@@ -44,6 +44,10 @@ public class ControllerSingleton {
 		}
 	}
 	
+	public void removeView(BorderPane rootPane){
+		rootPane.setCenter(null);
+	}
+	
 	private static void establishConnection() {
 		logger.info("Creating connection...");
 		

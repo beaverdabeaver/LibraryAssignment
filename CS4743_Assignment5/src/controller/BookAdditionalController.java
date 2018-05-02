@@ -4,6 +4,8 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
+
+import auth.LoginClient;
 import book.Book;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -108,5 +110,12 @@ public class BookAdditionalController implements Initializable{
 		table.setEditable(true);
 		royaltyColumn.setCellFactory(TextFieldTableCell.forTableColumn());
 		table.getItems().addAll(aList);
+		
+		if(LoginClient.getInstance().getSession().authType().equals("Intern")){
+			deleteAuthorButtonID.setDisable(true);
+		} else if(LoginClient.getInstance().getSession().authType().equals("Guest")){
+			deleteAuthorButtonID.setDisable(true);
+		}
+		
 	}
 }
